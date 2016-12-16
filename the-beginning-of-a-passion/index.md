@@ -1,9 +1,6 @@
 ---
 title: The beginning of a passion
-slug: the-beginning-of-a-passion
 excerpt: On how from not knowing anything I turn Internet of Things into a passion.
-top_image: header.jpg
-layout: post.hbs
 publishDate: 2016-05-02
 ---
 
