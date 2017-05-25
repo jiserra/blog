@@ -1,3 +1,4 @@
 slug: the-beginning-of-a-passion
-top_image: header.jpg
+top_image: true
+top_image_alt: "Raspberry Pi, the incredible machine!"
 layout: post.hbs
