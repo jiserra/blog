@@ -1,6 +1,8 @@
-# Cutting the middleman
-
-## How I got from just building prototypes to actually build applications
+---
+title: Cutting the middleman
+excerpt: How I got from just building prototypes to actually build applications.
+publishDate: 2017-06-07
+---
 
 When I first started designing interfaces for mobile applications, there wasn't any real tool for doing prototypes. Why we needed prototypes? It was clear that to test an application early in the design process, a user has to experiment with it. Also, it was very helpful to the developers to play with something the way it supposed to behave.
 
