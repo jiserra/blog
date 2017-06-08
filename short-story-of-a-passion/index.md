@@ -2,6 +2,7 @@
 title: Short story of a passion
 excerpt: On how I turn Internet of Things into a passion.
 publishDate: 2016-05-02
+top_image_alt: "Raspberry Pi, the incredible machine!"
 ---
 
 Somewhere around 2013 I came across an article covering the possibilities offered by a novel _mini-computer_. Little did I know, this unassuming device - created in England for a scholarship program - was about to set off a small revolution of its own, all under the curious name of **Raspberry Pi**.
