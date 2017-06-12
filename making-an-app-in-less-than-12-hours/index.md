@@ -4,21 +4,21 @@ excerpt: How I manage to build a functional native Android app in a Hackaton wit
 publishDate: 2017-06-08
 ---
 
-On Friday June 2nd I went to the #MobileMonday Hackaton on the Galvanize offices in NYC. I wasn't expecting to do much because I didn't prepared anything, I don't even had an idea of something to make. The main reason was for the different workshops that people from IBM were going to give on Friday and Saturday, specifically for Loopback (thanks @joesepi for the course, it was great!)
+On Friday June 2nd, I attended the #MobileMonday hackathon, which took place at Galvanize’s offices in NYC. To be honest, I wasn't expecting much: I didn’t prepare anything in particular for the event. On the other hand, there were reasons to explain my presence there; in particular, the workshops by the IBM crowd, scheduled for Friday and Saturday. The Loopback one ended up being tremendously good (and I must thank @joesepi for that one since it was great).
 
-I went home on Friday with more will to do something on Saturday and that night, talking with Diana I refloated an old idea of making an app to find the different speakeasy bar's in NYC. If you never went to a speakeasy, you should! These are bars that resemble the prohibition era, because you have to know your way in: sometimes is a password, sometimes a secret door inside a restaurant or a telephone cabin that you have to use to get in!
+I headed back home on Friday with my expectations up, willing to do something on Saturday. That same night, during a conversation with my wife, I refloated an old idea of mine: an app to find the speakeasy bars in NYC. With their passwords, secret doors and hidden passages, speakeasies have always had that particular appeal, that ‘prohibition era’ resemblance that makes them exciting.
 
-The idea of the app was to have a list of bars, locate them in a map and in order to see the access details you should solve a riddle. How you solve it? Well, that's the fun part, you actually have to take a picture of the solution.
+The idea of the app was pretty straightforward: make a list of bars, pin them on a map and introduce a fun/related factor. In my case, I thought of introducing riddles in order to get the access details. How to solve the riddle? Well, that's the fun part: users would actually have to take a picture of the solution.
 
-I went on Saturday morning and I started with the first layout in Sketch, but because of time, I went directly to Fuse and made everything there directly. I had some complications because in order to have the real time preview in Fuse my phone and my Mac had to be in the same IP range and that wasn't possible to control with the Galvanize wifi. I ended up making a build to my phone each time I wanted to test something, but it wasn't too bad.
+## An arena for ideas
 
-Around 9pm I went home with a nearly finished app! I couldn't implement the image solving part, but I ended up with the bar listing and the map location of each bar. I was very thrilled to have something to show! 
+Saturday morning found me working on the first layout, using Sketch. However, and given the circumstances, I ended up switching to Fuse and directly doing everything there. I came across some minor complications along the way: for example, a real time preview in Fuse required both my phone and Mac to be in the same IP range - an uncontrollable factor in the offices where the hackathon took place. I ended up making a build to my phone each time I wanted to test something. Trust me, it wasn’t nearly as bad as it sounds, and by 9pm I was on my way home with a nearly finished app!
 
-On Sunday noon the judge round started on each project. Although I didn't expected to win anything, the judges were very impressed with it. Finally, the projects that were elected to the finals were awesome! They used the Watson services in a very clever way.
+I was missing the image-solving bit, but having the bar listing and the locations felt very good, and I was thrilled to have something to show. Sunday noon meant examination rounds for each project. Although I didn't expect to win anything - and I didn’t - but the judges were very impressed with my little app. In the end, the selected projects that would end up going to the finals were truly incredible, and each one of them used the Watson services in very clever ways. 
 
-I was so thrilled with what I achieved that I want to finish it soon and publish it on the Play Store. I want to develop an iOS version also, but I want first to change the look&feel to adapt it to the platform, it's important!
+Since the feedback was good, I decided to keep up with the speakeasy app. Next in my agenda is to finish the app and upload it to the Play Store, and then develop an iOS version adapting the look & feel. 
 
-If you're thinking in assisting to a hackaton and build a mobile project, I can't recommend Fuse enough! Although you need to practice a little bit before, it's super easy to start and to make something real in so little time feels like magic.
+If you're thinking in assisting a hackathon and building mobile projects, I can't recommend Fuse enough. Yes, you’ll be needing a bit of practice to get the grip of it, but once you’re there it's super easy to start and to make something real in little time. And, as usual, please don’t hesitate to drop me a line if you need advice to kickstart a Fuse project - I’m all ears!
 
 ### TODO
 - Images
